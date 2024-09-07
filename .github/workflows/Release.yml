@@ -14,7 +14,7 @@ on:
 
 jobs:
   release:
-    runs-on: iOS-15
+    runs-on: mOS-12
     steps:
 
       - uses: actions/checkout@v3
